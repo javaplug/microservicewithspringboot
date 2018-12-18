@@ -25,9 +25,8 @@ Tools required
    - https://git-scm.com/downloads
    - Download and Install
  - Postman [API Development Environment]
-   - https://chrome.google.com/webstore/detail/postman/fhbjgbiflinjbdggehcddcbncdddomop/related?hl=en
-   - click : 'Add to chrome' -> click : 'Add app'
-   - creating shortcuts -> 'chrome://apps/' -> right click on 'Postman' -> 'Create shortcuts..'
+   - https://www.getpostman.com/apps
+   - Download and Install
    - open postman, if you want to take backup of your data, you can sign-in otherwise click 'Take me straight to the app..'
 
 Configuration
