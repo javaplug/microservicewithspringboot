@@ -21,16 +21,20 @@ Tools required
    - https://maven.apache.org/download.cgi
    - Download a binary file by making sure that file name has [-bin], sample file name -> apache-maven-3.5.x-bin.zip
    - unzip that anywhere in your PC
- - Git [Source Control Management tool]
+ - [Optional] Git [Source Control Management tool]
    - https://git-scm.com/downloads
    - Download and Install
- - Postman [API Development Environment]
+ - [Optional] Postman [API Development Environment]
    - https://www.getpostman.com/apps
    - Download and Install
    - open postman, if you want to take backup of your data, you can sign-in otherwise click 'Take me straight to the app..'
 
 Configuration
 =============
+ - Set below Environmet Variables
+   - M2_HOME = ~/apache-maven-3.6.0
+   - JAVA_HOME = C:\Program Files\Java\jdk-10.0.1
+   - PATH = all-existing-setting-keep-as-is;%JAVA_HOME%\bin;%M2_HOME%\bin
  - Open STS
  - it asks a path for creating a workspace, choose a folder your PC
  - it opens the workspace
