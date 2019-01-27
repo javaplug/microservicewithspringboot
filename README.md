@@ -42,22 +42,9 @@ Configuration
    - from menu option click: Window -> Preferences -> [in left-panel]Maven : Installations -> [in right-panel] click 'Add' : click 'Directory' and choose the folder where you unziped 'Apache Maven' '~\apache-maven-3.5.3' and click : 'Finish'
    - from menu option click: Window -> Preferences -> [in left-panel]Maven : 'User Settings' -> [in right-panel] click 'Browse' : and choose '~\apache-maven-3.5.3\conf\settings.xml' and click : 'Apply and close'
 
-Code
-====
-  - login to github
-  - navigate to https://github.com/javaplug/ws_masterdata_team
-  - click 'fork' -> wait for a while
-  - navigate to https://github.com/<your-github-id>/ws_masterdata_team
-  - click 'clone or download' -> copy the link sample 'https://github.com/<sample>/ws_masterdata_team.git'
-  - create any folder in your PC and navigate to that path through command-prompt
-    - enter below commands
-      >git init
-      >git clone copied-url
-  - ws_masterdata_team will be downloaded in that path
-
 Importing Maven Project and starting
 ====================================
-  - Right click inside 'Package Explorer' -> 'Import..' -> 'Maven' -> 'Existing Maven Projects' -> choose 'ws_masterdata_team' in the above step -> click : 'Finish'
+  - Right click inside 'Package Explorer' -> 'Import..' -> 'Maven' -> 'Existing Maven Projects' -> choose 'ws_teammgmt_team' -> click : 'Finish'
   - Boot dashboard
     - from menu option click: 'Window' -> 'Show View' -> 'Other..' -> type 'boot' -> click : 'Open'
   - In boot dashboard expand 'local' -> choose 'ws_masterdata_team' -> right click -> (Re)start/(Re)debug
